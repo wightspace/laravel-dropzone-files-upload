@@ -1,0 +1,22 @@
+{
+  "name": "files",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Bundit Nuntates <silkyland@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dropzone": "^4.3.0",
+    "font-awesome": "fontawesome#^4.7.0",
+    "axios": "^0.15.3"
+  }
+}
